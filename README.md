@@ -1,2 +1,2 @@
-# Automatic-Watering-System
-A prototype of the automatic watering system for WolfHacks21
+# HowlerPod
+A Minecraft model of the HowlerPod and code for the watering system.
